@@ -1,0 +1,71 @@
+body
+{
+    background-color: rgb(126, 255, 40);
+}
+
+.h
+{
+    color: wheat;
+    font-style: italic;
+}
+
+.d1 , .d2
+{
+    background-color:wheat ;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+}
+
+#output
+{
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#number1
+{
+    width: 40%;
+    border-radius: 50%;
+    border-color: black;
+    text-align: center;
+}
+
+#number2
+{
+    width: 40%;
+    border-radius: 50%;
+    border-color: black;
+    text-align: center;
+}
+
+.btn
+{
+   margin-left: 40px;
+   width: 10%;
+  font-weight: bold;
+   font-family: serif;
+   background-color: blue;
+   color: white;
+}
+
+#btnn
+{
+   margin-left: 40px;
+   width: 15%;
+  font-weight: bold;
+   font-family: serif;
+   background-color: blue;
+   color: white;
+   float: right;
+}
